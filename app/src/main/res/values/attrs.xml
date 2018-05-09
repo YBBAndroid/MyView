@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberRunningTextView">
+        <!--帧数-->
+        <attr name="frameNum" format="integer"></attr>
+        <!--内容格式-->
+        <attr name="textType">
+            <enum name="money" value="0"></enum>
+            <enum name="num" value="1"></enum>
+        </attr>
+        <!--是否使用第三位数字逗号-->
+        <attr name="userCommaformat" format="boolean"></attr>
+        <!--是否当内容改变时使用动画,不改变时不使用动画-->
+        <attr name="runWhenchange" format="boolean"></attr>
+    </declare-styleable>
+</resources>

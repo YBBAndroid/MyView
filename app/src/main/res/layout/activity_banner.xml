@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+
+<com.ybb.testview.Banner.MyViewgroup
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:background="@color/red"
+    >
+
+    <com.ybb.testview.Banner.childView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/gray666"
+        android:id="@+id/chilredVIew">
+    </com.ybb.testview.Banner.childView>
+
+</com.ybb.testview.Banner.MyViewgroup>
+
+</LinearLayout>

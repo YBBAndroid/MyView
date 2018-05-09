@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dm003">
+  <RelativeLayout
+      android:id="@+id/rl_bg"
+      android:layout_width="match_parent"
+      android:layout_height="200dp">
+
+      <TextView
+          android:id="@+id/tv_tag"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@drawable/sp_blue"
+          android:text="标签"
+          android:textSize="@dimen/dm020"
+          android:padding="@dimen/dm010"
+          android:textColor="@color/white"
+          android:layout_margin="@dimen/dm010"/>
+      <TextView
+          android:id="@+id/content"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_centerInParent="true"
+          android:textSize="@dimen/dm030"
+          android:text="我是尹冰冰"
+          android:textColor="@color/black"
+          />
+  </RelativeLayout>
+
+</RelativeLayout>

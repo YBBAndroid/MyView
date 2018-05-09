@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303F9F</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="statusBarcolor">#303F9F</color>
+
+    <color name="gray333">#333333</color>
+    <color name="gray666">#666666</color>
+    <color name="gray999">#999999</color>
+    <color name="graybbb">#bbbbbb</color>
+    <color name="grayededed">#ededed</color>
+    <color name="grayf0">#f0f0f0</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorLightTransparentGray">#22ffffff</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF3333</color>
+
+    <color name="colorSendName">#9966cc</color>
+    <color name="colorSendName1">#F12B5B</color>
+    <color name="colorSendName2">#2B7DE2</color>
+    <color name="colorSendName3">#006599</color>
+    <color name="colorSendName4">#FF7906</color>
+    <color name="colorSendName5">#1FBCB6</color>
+    <color name="colorSendName6">#FFAE1F</color>
+    <color name="colorSendName7">#FF437D</color>
+
+
+    <color name="colorDarkTransparentGray">#a4000000</color>
+
+    <!--文字白色-->
+    <color name="colorTextWhite">#FFFFFF</color>
+
+    <color name="colorDanmuMsg">#30e7d5</color>
+
+    <color name="TextBasecolor">#333333</color>
+
+    <!--任务状态颜色-->
+    <color name="taskStatus1">#ff9800</color>
+    <color name="taskStatus2">#ff4081</color>
+    <color name="taskStatus3">#e51c23</color>
+    <color name="taskStatus4">#3f51b5</color>
+
+</resources>
